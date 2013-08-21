@@ -1,4 +1,4 @@
 pychrysanthemum
 ===============
 
-A visual/interactive Python disassembler
+Chrysanthemum Python Code Inspector is a visual/interactive Python disassembler.
